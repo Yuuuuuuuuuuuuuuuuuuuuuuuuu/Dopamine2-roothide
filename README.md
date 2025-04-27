@@ -39,5 +39,7 @@ fork this repo then goto tab [Actions] -> [All Workflows] -> [build tip file] ->
 
 ![text](/.pictures/m7.png)
 
+本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
+感谢 VTEXS 对开源社区的支持！
 
 *ref to build script [.github/workflows/main.yml](.github/workflows/main.yml) if you want to build on macOS.*
